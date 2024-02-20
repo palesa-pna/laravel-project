@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sonarlint.output.showAnalyzerLogs": true,
+		"sonarlint.output.showVerboseLogs": true
+	}
+}
